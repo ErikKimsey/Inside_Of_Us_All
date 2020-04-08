@@ -25,3 +25,4 @@ TL;DR
 and welfare worldwide.
 
 ![](https://i.imgur.com/SmNKcs7.png)
+![](https://i.imgur.com/x2Kv5i9.png)

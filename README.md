@@ -1,7 +1,9 @@
 # "Inside Of Us All" (or, "We Want To Know; We Don't Want To Know")
-#### This project is more of an interactive artwork, than it is an "app".  
+### by Erik Kimsey
+#### Blender and Unity3D
+###### interactive art 
 
-
+##### (Wordy, highly speculative) Artist Statement:
 Inside of all are layers of an individual, unique psyche and personal history.  These layers are who were, comprise our makeup.
 What I see as unfortunate, is that it is apparent that these layers are intentionally hidden and private.  Hidden from expression
  to project whatever an individual perceives, writ large, as normalcy.  
